@@ -1,6 +1,12 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
 header {
     background-image:url(images/vtt.jpg);
     background-position: center bottom;
     background-size: cover;
     font-family: 'Montserrat';
+    color: white;
 }
